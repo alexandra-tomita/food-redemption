@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 1. [ [beam_ntth](https://github.com/beam-ntth) ] Natheethorn Teacharuangchit - (Fullstack Developer)
 2. [ [SejalKaranjkar](https://github.com/SejalKaranjkar) ] Sejal Karanjkar - (Fullstack Developer)
-3. [ [alexandratomita](https://github.com/alexandratomita) ] Alexandra Tomita - (UI & UX Design)
+3. [ [alexandra-tomita](https://github.com/alexandra-tomita) ] Alexandra Tomita - (UI & UX Design)
